@@ -1,2 +1,7 @@
 # Hundrython
-A hundred Python Exercises
+
+Alguns exerciciozinhos de Python!
+
+## Exercicios e Explicações
+
+
