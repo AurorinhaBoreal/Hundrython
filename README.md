@@ -8,6 +8,6 @@ Alguns exerciciozinhos de Python!
 
 ## Exercicios da Aurora
 
-Aurora irá fazer os pares
+Gui irá fazer os impares
 
 
