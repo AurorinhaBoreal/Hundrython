@@ -10,6 +10,6 @@ anos = math.floor(diasTotal / 365.25)
 meses = math.floor((diasTotal % 365.25) / 30)
 dias = math.floor((diasTotal % 365.25) % 30)
 
-print(f"\nCom base nos seus dias vividos, você tem {anos} anos, {meses} meses e {dias} dias de vida!")
+print(f"\nCom base nos seus dias vividos, você tem {anos} anos, {meses} meses e {dias} dias de vida!\n")
 
 

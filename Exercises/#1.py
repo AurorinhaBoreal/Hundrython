@@ -10,6 +10,6 @@ altura = int(input("Qual a altura de seu retângulo em cm? "))
 area = base * altura
 perimetro = (base * 2) + (altura * 2)
 
-print(f"\n A Área de seu retângulo é {area}cm e o perímetro é igual a {perimetro}cm")
+print(f"\nA Área de seu retângulo é {area}cm e o perímetro é igual a {perimetro}cm")
 
 
